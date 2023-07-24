@@ -21,11 +21,6 @@ class DatabaseSeeder extends Seeder
     //     'email' => 'test@example.com',
     // ]);
 
-    // DB::table('admins')->insert([
-    //   'name' => 'mourtalla',
-    //   'email' => 'mourtalla@gmail.com',
-    //   'password' => Hash::make('password'),
-    //   'profile_picture' => 'default'
-    // ]);
+    \App\Models\Admin::factory(1)->create();
   }
 }

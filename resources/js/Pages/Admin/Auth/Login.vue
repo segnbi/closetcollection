@@ -3,7 +3,7 @@ import { Head, useForm } from "@inertiajs/vue3";
 import ApplicationLogo from "@/Components/ApplicationLogo.vue";
 
 const form = useForm({
-  name: "closetCollectionAdmin",
+  name: "admin@closetcollection",
   password: "password",
 });
 </script>

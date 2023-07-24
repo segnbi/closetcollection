@@ -100,7 +100,7 @@ onMounted(() => {
             <div class="flex w-[280%] gap-[10px] md:w-auto">
               <a href="#" class="relative h-[306px] lg:h-[450px] flex-1 group">
                 <img
-                  src="assets/images/website/women.jpg"
+                  src="assets/images/websites/women.png"
                   alt=""
                   class="w-full h-full object-cover"
                 />
@@ -118,7 +118,7 @@ onMounted(() => {
                 class="relative h-[306px] lg:h-[450px] w-screen md:w-auto md:flex-1 lg:flex-[2] group"
               >
                 <img
-                  src="/assets/images/website/new.jpg"
+                  src="/assets/images/websites/new.png"
                   alt=""
                   class="w-full h-full object-cover"
                 />
@@ -133,7 +133,7 @@ onMounted(() => {
 
               <a href="#" class="relative h-[306px] lg:h-[450px] flex-1 group">
                 <img
-                  src="/assets/images/website/men.jpg"
+                  src="/assets/images/websites/men.png"
                   alt=""
                   class="w-full h-full object-cover"
                 />
@@ -203,7 +203,7 @@ onMounted(() => {
             </div>
             <div class="relative md:flex-[1] lg:flex-[2]">
               <img
-                src="/assets/images/website/discount.png"
+                src="/assets/images/websites/discount.png"
                 alt=""
                 class="w-full object-cover"
               />
