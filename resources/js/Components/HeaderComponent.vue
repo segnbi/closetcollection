@@ -120,6 +120,7 @@ const showNav = ref(false);
       </Link>
 
       <button
+        title="menu button"
         class="lg:hidden inline-flex flex-col gap-2 border px-3 py-[13px] rounded-full group relative z-50"
         :class="{
           'bg-black border-white transition-all': showNav,

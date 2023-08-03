@@ -55,7 +55,7 @@ class ProductController extends Controller
     ]);
 
     foreach ($validated['images'] as $validImage) {
-      $path = $validImage->store('images/products', 'public');
+      $path = $validImage->store('images/product', 'public');
 
       $product->images()->create([
         'path' => $path
