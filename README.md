@@ -1,6 +1,6 @@
-<img src="closet-collection.gif">
-
 # Closet Collection
+
+<img src="closet-collection.gif">
 
 Closet collection is an online clothes store with interesting features like:
 
