@@ -1,3 +1,5 @@
+<img src="closet-collection.gif">
+
 # Closet Collection
 
 Closet collection is an online clothes store with interesting features like:
